@@ -1,4 +1,4 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Esmo999 Auto-Rice Bootstrapping Scripts (LARBS)
 
 ## Installation:
 

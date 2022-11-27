@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Luke's Auto Rice Boostrapping Script (LARBS)
+# Esmo999 Auto Rice Boostrapping Script (LARBS)
 # by Luke Smith <luke@lukesmith.xyz>
 # License: GNU GPLv3
 
